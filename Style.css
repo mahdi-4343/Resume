@@ -263,7 +263,7 @@ h1 {
       will-change: transform;
       animation: marquee 40s linear infinite;
       display: flex;
-      gap: 20px;
+      gap: 15px;
     }
   }
 }
