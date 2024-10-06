@@ -241,6 +241,14 @@ h1 {
         margin-bottom: -70px;
       }
     }
+    @media (max-width: 1440px) {
+      img {
+        margin-top: -60px;
+        padding-top: -90px;
+        max-width: 425px;
+        margin-bottom: -50px;
+      }
+    }
   }
 }
 
